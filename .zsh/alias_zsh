@@ -32,7 +32,7 @@ alias untard='tar -xvf'
 alias targz='tar -czvf'
 alias untargz='tar -xzvf'
 
-
+alias dotfiles='cd ~/Documentos/.dotfiles'
 
 
 #"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
