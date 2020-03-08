@@ -45,9 +45,9 @@ rm-tmp() {
 #""""""""""""""""""""""""""""""""""""""""""""""""
 
 repo(){
-        dotfiles
+        cd ~/Documentos/.dotfiles
         git add .
         git status
-        git commit -m "$1"
+        git commit -m ""$1""
         git push -u origin master
 }
