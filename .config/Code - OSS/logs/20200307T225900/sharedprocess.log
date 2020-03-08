@@ -1,0 +1,8 @@
+[2020-03-07 22:59:06.076] [sharedprocess] [info] main {"machineId":"1da7d342be49e76a2a84d814077577063672833be769cc21d89aad72de108f31","windowId":2}
+[2020-03-07 22:59:35.459] [sharedprocess] [info] Uninstalling extension: ms-ceintl.vscode-language-pack-es
+[2020-03-07 22:59:35.504] [sharedprocess] [info] Successfully uninstalled extension: ms-ceintl.vscode-language-pack-es
+[2020-03-07 22:59:41.863] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2020-03-07 22:59:42.423] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /tmp/5a22d6cb-acea-4357-be0b-ac8bc9ca2f29
+[2020-03-07 22:59:42.509] [sharedprocess] [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-es
+[2020-03-07 22:59:42.517] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-es
+[2020-03-07 22:59:46.062] [sharedprocess] [info] Starting to clean up unused language packs.

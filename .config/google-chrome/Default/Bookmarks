@@ -1,0 +1,153 @@
+{
+   "checksum": "c910a0333fd10e4d6d1ca9d1ddabf06b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13162343810011726",
+            "guid": "1edf1f84-36a6-4e01-8d9b-16bc2efa176b",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13177986094908005"
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://m.animeflv.net/"
+         }, {
+            "date_added": "13162344096074182",
+            "guid": "aaf68602-d6d5-4cd3-9363-1ed75150f4b0",
+            "id": "6",
+            "name": "",
+            "type": "url",
+            "url": "https://www.netflix.com/browse"
+         }, {
+            "date_added": "13223370205083202",
+            "guid": "e93f76ff-51e4-4000-8611-b64971446d49",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13223370205111482",
+            "guid": "11722ff2-f036-4853-b4d4-79e15097556a",
+            "id": "8",
+            "name": "",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13225781874419486",
+            "guid": "4e7b4133-4b12-4d75-b281-69b4f35d4d1b",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13225782004306520",
+            "guid": "cb41f865-5b55-460f-a138-1e4b560e8bfa",
+            "id": "10",
+            "name": "Bspwm",
+            "type": "url",
+            "url": "https://www.reddit.com/r/bspwm/"
+         }, {
+            "date_added": "13226214239601301",
+            "guid": "98b7d88d-28af-4f0d-b91e-ea9ea279ccda",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13227220084759923"
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "children": [ {
+               "date_added": "13162532489940095",
+               "guid": "a6cbbef2-77ed-45f7-81d0-58df39dc55a7",
+               "id": "13",
+               "name": "camposemcs15ejercicios.pdf",
+               "type": "url",
+               "url": "http://www.nucleares.unam.mx/~alberto/apuntes/camposemcs15ejercicios.pdf"
+            } ],
+            "date_added": "13228115915107533",
+            "date_modified": "13228115915107535",
+            "guid": "65b09104-0d1a-4be0-9f17-88995275dd6b",
+            "id": "12",
+            "name": "Otros",
+            "type": "folder"
+         }, {
+            "date_added": "13226310377562887",
+            "guid": "45d95399-eefa-481c-9955-7beecb0c88d9",
+            "id": "14",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13226310377564913",
+            "guid": "b0a62859-c2be-4bf0-9e9f-5f3593485066",
+            "id": "15",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13226310377566103",
+            "guid": "b54bd38b-6761-42f1-89b0-b2173941806a",
+            "id": "16",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13226310386860297",
+            "guid": "ab2616e4-7832-4b46-9d22-24fa05dc20b1",
+            "id": "17",
+            "name": "Traducir",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         } ],
+         "date_added": "13228115811156405",
+         "date_modified": "13226310386860297",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13228115811156430",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13226528356067984",
+            "guid": "48b3eb03-fb54-4857-aaa7-23d23aef00b7",
+            "id": "18",
+            "name": "Acabo de ver esta elegante animación para crear y cambiar el enfoque - bspwm",
+            "type": "url",
+            "url": "https://www.reddit.com/r/bspwm/comments/8wqz43/just_saw_this_fancy_animation_for_creating_and/"
+         }, {
+            "date_added": "13226794072296002",
+            "guid": "0f320543-d576-43c5-b7a9-0556608ad245",
+            "id": "19",
+            "name": "Las 50 principales opciones de configuración de Vim - ShortcutFoo Blog",
+            "type": "url",
+            "url": "https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/"
+         }, {
+            "date_added": "13226914473997477",
+            "guid": "08dfbcb5-5fdf-408b-b4c8-e3cdf4128faa",
+            "id": "20",
+            "name": "jarcode-foss / glava: GLava - Visualizador de espectro de audio OpenGL",
+            "type": "url",
+            "url": "https://github.com/jarcode-foss/glava"
+         } ],
+         "date_added": "13228115811156434",
+         "date_modified": "13226914473997477",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgLaGO1KgBQAhgLaGO1KgBQAiFAnVmopKUqAFABACGYdiZzVbcjqZMhgKFggCEXutB0xSoAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAtoY7UqAFACGAtoY7UqAFADIYChYIAhF7rQdMUqAFABgAIQAAAAAAAAAAIABI/+ihx4sucJOswMOLLhIAIAEqGDJFeHVkaUFjZDFBcVdqOFYwRkdMS0E9PRLGAQgDEsEBEmZaOkFEcXRBWndzYW9tTnJ1UGZMR09hT0pVdGR2b3lRSEU1Q0RWZkJaYm5nTkh4LytlbTBZb0ZMRjFtdFMxYU1TZ3UxaGlNbGxVaW5JQmxrMFJROUprOFM2RlF3d1FPc2lNOHZRPT0YACAAKAAwm9vlrIeK6AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAADHuRRU4ebKLAPkx2IkT0TRCkvxwPVV6kKR+tfxKuAQgBEqkBEk5aOkFEcXRBWng2b2pmZllTMVR6cEFRTllBMlBoak5CbE1HR3pLR2V3TEs2N1M5K2NUUHJnc1I5amNPQlJsc0xKZ2ExNXdZL1V5OGhBY0wYACAAKAAwm9vlrIeK6AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAA2h76Vfmdt5HjiED+OeIBQJi++u/hYRQAqjIUfxKLAggJEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJSDVxQzJ6VlVscVYyZDZObEVKTCt4ZzRaSkxsTXFkd3pMZGl2UWh5UTZDbmE5VDA0U2FSODl4emxoZXNVL0lkb0RsNFdiZDhMU0xUd1ZKdHQvbDY4QkVkM0hLaGZtaGNRN29vcUhpODJiZHptMTVNcHkxbmR6MVRRZ1pUdTNXbWViWTJuSHc9PRgAIAIoAjDcm8auh4roAjj2zcXqgi5AvZPAw4suShxTYmZZaFRTWmlkdU45Qy81dU1UNnJ1YjZzRG89WiAiHv/rNVFYOGhLNTFIbUpMSEkzOENaMkNqTGpmb2p3PRKLAggMEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJSDVxQzJ6VlVscVYyZDZObEVKTCt4aE9BR0dNRTFjREtwYWdQR3hJeGlBZ3Bob3lJWmk0SVRjVGYyMGVVbFIrbEZoY3FtTzBRc3RDQTl6WVdrYTdOaHFJUGRvMHVac0xIM0RUNXBkMWNNZkxSSkFzWFJIN1laK1o0K081ZHJwbVR3WEk1L2c9PRgAIAAoADDF+PH249PnAjjws53KhC5A8LOdyoQuShx2cUd3VUl5cnlyYm9YYk94bzFpQ2F0NytNYVE9WiAiHv/9OFR6WEc5ZVk2bEtwVHlWWDhZS3VuTDliMUNjPRKLAggKEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJSDVxQzJ6VlVscVYyZDZObEVKTCt4cnhiU1ZWNVo4WnpjU0tITGNYUEVuTm1qNG1PaEhqbW0rQ1lFWTZyZ0ZML1lqM1hTZ0JRa1J2WWZWMzMyeG5FaS83bHdEdVRWeExDSW96SFpmai9NUXpseGg5WlVhUy9pazExWVB2YVBRazhpT1VWMVE9PRgAIAIoAjDcm8auh4roAjjUxM3qgi5AvZPAw4suShxTbGJuUVJCZXZCZmZJWnQ5akI0WnR6a3ZLZzA9WiAiHv/1b3dRQ2xwQ01GcFdMUjdQajBlRDNrdHIwcGJjPRKLAggLEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJSDVxQzJ6VlVscVYyZDZObEVKTCt4dm90azViQ0tjSy9OSzZuVnZYVXhMTDFGRll5S0x1OGRmOFhnUm1IRDJhcUVzUmFMOFFKbkVrc3NCbVRaUGt1YmVSUSs2Mkpia0V3NnRrV2ZkRCszQjNucnplcGlTRFFWdjJVL3ZqUmFHanZXYXVXWmc9PRgAIAIoAjDcm8auh4roAjjyitu4hC5AvpPAw4suShw4SkhlRXZ6NExpZ1VvMzZ6NnoxTXZwRURyejQ9WiAiHv/6K3FKaG1CL1hmUVk4aVBqYmJwQ3lua2NHVUZnPRKLAggHEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJTFRPSGg3b0VCZEhxZXY4Y2ZiVmNOK0ZqMmtiQjczeXJ5ajhqSDZBNnMyZm1JL2NTUFErS1BVQ2w4N0llZ2dFQnJtbUhPb0Nzb1NHbmllU3NJQnVuOUlISCt6bG95dEdIVDNKVi91LzRnV1p1ZzM1SnRyT1pjWDU2SkRxNWtFdTJhMWtTSkE9PRgAIAIoAjDcm8auh4roAjjXnvPV+C1AuZPAw4suShxVNzBRWW5GTVhqeGNjNjZodE01Zm5xY3pLQUU9WiAiHv+sUDJUMDVrcUY3TU9qTHVJdWpBNnZ5OWdwVlcwPRKLAggIEoYCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJTFRPSGg3b0VCZEhxZXY4Y2ZiVmNOenVTZ3pRNGlQQXQ4MUc1WWRjbjZaN0x4OXJvaXhqMXBhN1AxT3BBNlEyNXZXY2hSeWdaT2R2Tis1M283N0cxWDcvN21VUGJWN1o4NmFWR2FaMmp2Y2ZtQ0FDNGtsT0Q0L084Rldkak4wOUZ3WUc2S1E9PRgAIAQoBDDUtarUpIroAjjXnvPV+C1A0pSgx4suShxkMW1mMzk3S0pHMUd0eTU5bjB5b2o3K3pFTW89WiAiHv/WSTdqWEpFOHBEajFwcklFV2hrTDYxaFpaNjVFPRKJAggNEoQCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJUkh3Nlk4Z3IwOW9rMEI2eElKR0ZhNi9LckN2akxhbWdSb2JqZlUzYlJuaEcvK2luaG5FbGYwLzRCaFcxZm93NmFwSWJuVFZDVWE0OWgvcXdVK1pHNmM4QmRNNExFM1FvUFBaTWJWaDNoSEVTWTcvY2ZQakNjN3U5VlBpaXBKcWhGMEJNL3c9PRgAIAAoADCynML449PnAjjVxfGalyxA1cXxmpcsShx3QmJvUXpjcnFZZ1ZmWmVtQ3JGMC9nY1FhQTg9Wh4iHFpUeWoxeDFtaFg1SmhzZ0ExMnl4RFkxSjZmWT0SigIIBRKFAhKmAVo6QURxdEFaeittVzVWeGg5cUtFK2R4dU9CMjc2SVJIdzZZOGdyMDlvazBCNnhJSkdGYTZIQVlpdFIrT2ZMWmQ1QTB6UHQzcDZwR3VWaG9GNlNvMHlzWUJKYmhvLy9Md0pkR2g3Z21zSzZOMmNMTTNCeC9LL3FWdndyNmNtQ2Fxa2NIUUNUVnROYmw4Zkx1YUFNV2I0bEkyQVBTVjVUMGUrRjBnPT0YACACKAIw3JvGroeK6AI43bf1wJYsQLWTwMOLLkocWmxyczFTYjJZV3Q1ODBLNFFmUkFrUWJnKy9RPVofIh21ZVpSa1NYd3IyR2s1cVFoN3NOQTFvTHVSMDNNPRKKAggGEoUCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJUkh3Nlk4Z3IwOW9rMEI2eElKR0ZhOVVUek9LR09rRWcwWEQ4eVhhMk96end4eWVyc3MreWZGcDg0U3RkS1N0TlN5bDNVelZKcUdPdWhJbElPOEVWWEFBSk5nYWJRNktIaXFDRDd3TytWWkFmUm44cy9EblQxTWMra0NFWjdRSXhrMkpGeXc9PRgAIAIoAjDcm8auh4roAjjL8obBlixAuJPAw4suShxaaTNXOUxYakgvL20zTVFmMUM5ckU3ZEhYNVk9Wh8iHdorU1FyYjdOL2tsUXhBVW4rbld6bHowU1BIZjg9EokCCBIShAISpgFaOkFEcXRBWnorbVc1VnhoOXFLRStkeHVPQjI3NkloWTZWYVZETndKNloyMmpOZWhZMHVpbDJsNFRxb2lFelJxdnA0dytRQjRkWDhVUngxU3d1Qm9KSU8rSG5VNDVOWCtpaXJvRFdIQ0xnOTRhT1YvYkN4azg3eXFHY1VzbFhOTEZYMlR2RjFxVkJIS1VPTC82QVBoVHFJTTU4Lzg2TTFGVkk0UT09GAAgACgAMK/WjfDJ/ucCOO2dv86FLkDtnb/OhS5KHHg0Q1lSWU5KQTI1aExBWUkvNzEzK1ExUFFCVT1aHiIcQ2NkSTlFY3VCSUE1c2xJSlNsK2pwWS8wTm9BPRKJAggTEoQCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJaFk2VmFWRE53SjZaMjJqTmVoWTB1bmlKcG9YWWRMdUpodHVYYWRETHg5OVNKdlEvWjBjU2tKWVYwVlRBdlgrNHo5S3h0ZTFzRFRSR21LUHpPVVN1RGtBaXIzVllJZUkraFVUR3FBMCtCYXo4SXBKQyt4MnY2bXZFRDRjYUxhUzNDVVdYVEE9PRgAIAAoADCvtsaOy+PnAjjsoZnNhi5A7KGZzYYuShxscGs5dk9DNzdTU2dodktCZEVvMDgyTWY4Yms9Wh4iHG9DRkNra1k0VmJQSi9vTWFwL0w2T2pXWmtIbz0SjAIIERKHAhKmAVo6QURxdEFaeittVzVWeGg5cUtFK2R4dU9CMjc2SXZrZ0xNaDIyNXI0UEJFRGhVWk5pZ2laQ3BCeWtHdUErRnlVQ2ZYQUkvdExReitvYS80UVZ0ODlBaHFCTzQ0VzlSa2NuL21zY3l2RW5zd0ZBNlprUEdkblgvRjI4dUFrTS9SM3M5aHdYSlBHVGt5UHVwY2wzRURvZmdKeEJkQlk3T29XZFNBPT0YACACKAIw3JvGroeK6AI4zJPM5oQuQMCTwMOLLkocbm5ObTBOZmFpWDJNSzJiZU1WVjBwRFlmY2hZPVohIh///9lEaXJxbGdVL3dlTG9VOENKMXBUL21rV25RZGs9EowCCBAShwISpgFaOkFEcXRBWnorbVc1VnhoOXFLRStkeHVPQjI3Nkl2a2dMTWgyMjVyNFBCRURoVVpOaWduczl2K1ltUnpCSDJQdDhCVFpic09lWXRQaUJ4RHdBaDhNVWkxWWFKa3pMVFJEZWEvN2tMYkpGV3A3NnZjbERkbGMyaGw4MVlERTQwSFFwNmo5RUNTamZUVU5NS2pHajRPZTA1b2s4OGR4N2g0ZnFsZz09GAAgAigCMNybxq6HiugCOMuTzOaELkC/k8DDiy5KHFllNmdoZG1FVjkyS0ZYMnFGSDhJTUVGdllNUT1aISIf//+yRHdoakNwREh2QzFTTjg0dUZLQ20xNjRTYUVvPRKKAggUEoUCEqYBWjpBRHF0QVp6K21XNVZ4aDlxS0UrZHh1T0IyNzZJdmtnTE1oMjI1cjRQQkVEaFVaTmlndHlFbVhyUzVxYVVzcDVsVHY2YmN2Y1NsMnNIcUdpeCs4NFQzRWFqSDhPTTRyWDArMHV6djVydWNUenJpOWJJTHpEdndZOVlmd0E1cklkaVUrY1BCYkUxTWFNNU1SZmFUc2VBWmdUczR6bnFNQnc0cFE9PRgAIAAoADDV+uHQ7/bnAjiNgM6Ghy5AjYDOhocuShxLYnBuak9la3Aralp0NnZTYll5UWpLR0ZadXM9Wh8iHbdkZzNBSStHalZEZHRRRlFadE5XakE0M1hTcmc9EosCCA4ShgISpgFaOkFEcXRBWnorbVc1VnhoOXFLRStkeHVPQjI3Nkl2a2dMTWgyMjVyNFBCRURoVVpOaWd2TENsTENRSmhxWDI4QURZbmpGVW1ISzVNOHhMQ29oR3RiV1VDbDN6RXF0YkxjZzlndmNVNkdYREY4bFBza1FVNE1NSDRueFJXOCtaRkNZbjBDNGx4T3VzQU5QZk1ucVJsRmNGY2RFdFp6VTRTOU45Zz09GAAgACgAMO+MtYi75ecCOMqTzOaELkDKk8zmhC5KHHFFY2l3b01saERSTkx1STFsR2tQeWFnZWF6MD1aICIe//5vZTJZcjI5OVpVUHVHM0pqQTZCMjlESXRlYTQ9EosCCA8ShgISpgFaOkFEcXRBWnorbVc1VnhoOXFLRStkeHVPQjI3Nkl2a2dMTWgyMjVyNFBCRURoVVpOaWd2WGxOZWZIL3RpQXdlWEZ4NmhSUTlzN2FkZ21HUVFDUUJLWmJvcXVsUW1iOGhkWmNrTGp1UWJwbEFpQnBLTjVJR3ZHMFpFdEJ3YUFmWXovQzhNdUdOWVdTTXdrUE1VU2doMnU2eEpjaHFGTFlPcis0Zz09GAAgAigCMNS1qtSkiugCOMuTzOaELkDSlKDHiy5KHFNVMk9TR05CdDlnTDhldEdXYnlUNTFPZ2VWMD1aICIe//9lMkxJYXN4YXVPOHZLUU5XOFlqYjJzZ0ZqUkk9EsYBCAISwQESZlo6QURxdEFaejNUK1dWdmkvVkJqQTVBT2hySUFvSndQUjlNSUJPUUYzZGdUSENLdTVsOXNTMXluaTJHYm1SczJOTmtQb1hkNGNWUk9CYXE3T2FFWEgwd3VsNTkzMmFiakUvR0E9PRgAIAAoADCb2+Wsh4roAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aJiIkgAAAAAAAAAAu7zYXVlAdWzkPuM3iPn1AisM3dqmVnPVCZbR/",
+   "version": 1
+}

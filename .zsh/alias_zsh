@@ -1,0 +1,44 @@
+#							
+#			  Mis alias			
+#			By: CallmeDav
+
+
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+#            --  lsd Esteroides para mi ls  --
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+alias ll='lsd -lha --group-dirs=first'
+alias ls='lsd --group-dirs=first'
+alias cat='bat --paging=never'
+
+
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+#		       --  tmux  --
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+alias attach='tmux attach'
+alias temux='tmux new -s'
+
+
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+#		     --  Sistema  --
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+alias bye='pkill -KILL -u medicendav'
+alias rmc='rm -r'
+alias cpr='cp-r'
+alias class='xprop WM_CLASS'
+
+alias tard='tar -cvf'
+alias untard='tar -xvf'
+
+alias targz='tar -czvf'
+alias untargz='tar -xzvf'
+
+
+
+
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+#		      --  pacman  --
+#"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+alias instal='sudo pacman -S'
+alias update='sudo pacman -Sy'
+alias upgrade='sudo pacman -Syu'
+alias remove='sudo pacman -Rn'
