@@ -12,7 +12,7 @@ source /home/medicendav/.cache/wal/colors-tty.sh
 
 #	Configurando mi prompt en  ~/.p10k.zsh.
 #################################################################
-source /home/medicendav/git/powerlevel10k/powerlevel10k.zsh-theme
+source /home/medicendav/.config/git/powerlevel10k/powerlevel10k.zsh-theme
 [[ ! -f /home/medicendav/.p10k.zsh ]] || source /home/medicendav/.p10k.zsh
 
 
