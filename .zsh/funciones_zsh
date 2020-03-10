@@ -26,7 +26,7 @@ cl(){
 
 script(){
 	touch $1.sh && sudo chmod +x $1.sh
-	$EDITOR $1.sh
+	vim $1.sh
 }
 
 
@@ -48,6 +48,12 @@ repo(){
         cd ~/Documentos/.dotfiles
         git add .
         git status
-        git commit -m ""$1""
+        git commit -m "$*"
         git push -u origin master
+}
+
+
+dotfiles(){
+    cd ~/Documentos
+    stow --adopt -v .dotfiles
 }

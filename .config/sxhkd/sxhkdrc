@@ -35,7 +35,7 @@ super + w
 
 #Terminal
 super + Return
-        urxvt
+        termite
 
 #Editor de texto
 ctrl + g
@@ -161,12 +161,12 @@ XF86MonBrightnessDown
 
 #Captura de pantalla
 Print
-	scrot 'wall_%Y-%m-%d-%H:%M.png'
+	~/.config/scripts/screen.sh & notify-send 'Tomada captura de pantalla'
 
 #Cambiar el wallpaper y colores de la paleta
 alt + w
    ~/.config/scripts/set-wall.sh 
 
 #Menu para cerrar sesión, reiniciar, bloquear, apagar
-alt + Return
-   ~/.config/scripts/powermenu
+alt + l
+   ~/.config/scripts/apagar.sh

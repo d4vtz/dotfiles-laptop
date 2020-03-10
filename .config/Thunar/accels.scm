@@ -26,7 +26,6 @@
 ; (gtk_accel_path "<Actions>/ThunarStandardView/select-by-pattern" "<Primary>s")
 ; (gtk_accel_path "<Actions>/ThunarWindow/close-tab" "<Primary>w")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-side-pane-tree" "<Primary>e")
-; (gtk_accel_path "<Actions>/ThunarShortcutsPane/sendto-shortcuts" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/help-menu" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-location-alt" "<Alt>d")
 ; (gtk_accel_path "<Actions>/ThunarWindow/open-home" "<Alt>Home")

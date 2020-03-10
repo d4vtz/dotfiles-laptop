@@ -6,7 +6,7 @@
 
 [global]
    frame_width = 0
-    font = Roboto 11
+    font = Iosevka 11
     follow = none
     
     # Allow a small subset of html markup:

@@ -25,7 +25,7 @@
 
 ###   Assign wallpapers directory here   ###
 
-wallpapers_dir=$HOME/.config/wallpapers/
+wallpapers_dir=$HOME/Documentos/.dotfiles/.config/wallpapers/
 
 ###   Config   ###
 

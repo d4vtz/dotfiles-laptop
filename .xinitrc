@@ -26,10 +26,6 @@ wal -R
 #xrdb ~/.Xresources &
 ####################################################
 
-#Apps
-Spotify &
-TelegramDesktop &
-
 
 #Ejecutamos bspwm
 exec bspwm
