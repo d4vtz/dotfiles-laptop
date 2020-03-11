@@ -26,7 +26,8 @@ cl(){
 
 script(){
 	touch $1.sh && sudo chmod +x $1.sh
-	vim $1.sh
+	echo '#! /bin/bash' > $1.sh 
+    vim $1.sh
 }
 
 
