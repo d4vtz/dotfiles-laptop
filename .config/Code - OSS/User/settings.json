@@ -1,4 +1,7 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback','Hack Nerd Font'",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "editor.minimap.enabled": false
 }

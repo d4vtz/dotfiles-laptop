@@ -1,5 +1,7 @@
 #! /bin/sh
 
+play $HOME/.config/scripts/new-starwars.mp3 2> /dev/null &
+
 userresources=$HOME/.Xresources
 # merge in defaults and keymaps
 

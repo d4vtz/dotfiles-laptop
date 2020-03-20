@@ -25,6 +25,8 @@ alias bye='pkill -KILL -u medicendav'
 alias rmc='rm -r'
 alias cpr='cp-r'
 alias class='xprop WM_CLASS'
+alias brillo='./.config/scripts/brillo.sh'
+
 
 alias tard='tar -cvf'
 alias untard='tar -xvf'
@@ -33,8 +35,8 @@ alias targz='tar -czvf'
 alias untargz='tar -xzvf'
 
 alias dotfiles='cd ~/Documentos/.dotfiles'
-
-
+alias py='python'
+alias latex='latexmk -pdf -pvc'
 #"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 #		      --  pacman  --
 #"""""""""""""""""""""""""""""""""""""""""""""""""""""""""

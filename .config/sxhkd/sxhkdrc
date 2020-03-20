@@ -64,6 +64,10 @@ super + shift + Return
 #Reproductor de música por consola
 super + @space
 	$TERMINAL -e ncmpcpp
+
+#Spotify
+super + s
+    spotify
 	
 ###############################################################
 ###########	 Configuracion de las ventanas   ##############
@@ -95,8 +99,8 @@ super + {Left,Right}
     	bspc desktop -f {prev,next}.local
 
 #Moverse entre Workspaces ocupados
-#ctrl + {Left,Right}
-#    	bspc desktop -f {prev,next}.occupied.local
+shift + ctrl + {Left,Right}
+  	bspc desktop -f {prev,next}.occupied.local
 
 
 #Cambiar al ultimo WorkSpaces
@@ -106,6 +110,12 @@ super + Tab
 #Enviar ventanas a diferentes WorkSpaces
 super + {_,shift + }{1-9,0}
     bspc {desktop -f,node -d} '^{1-9,10}'
+
+
+# Cambiar el tamaño de las gaps 
+#super + alt + button{4,5}
+super + z + {Up,Down}
+    bspc config window_gap $(( $(bspc config window_gap) {-,+} 5 ))
 
 
 ###############################################################

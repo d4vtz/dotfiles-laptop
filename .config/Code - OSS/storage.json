@@ -2,11 +2,17 @@
     "telemetry.machineId": "1da7d342be49e76a2a84d814077577063672833be769cc21d89aad72de108f31",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/medicendav/Documentos/Latex",
+            "file:///home/medicendav/.config/conky",
             "file:///home/medicendav/.config",
             "file:///home/medicendav/.config/polybar",
             "file:///home/medicendav/.config/sxhkd"
         ],
         "files2": [
+            "file:///home/medicendav/.config/polybar/iconos",
+            "file:///home/medicendav/.config/neofetch/config.conf",
+            "file:///home/medicendav/Documentos/python/biseccion.py",
+            "file:///home/medicendav/Documentos/python/plot.py",
             "file:///home/medicendav/.config/compton/compton.conf",
             "file:///home/medicendav/.config/rofi/config",
             "file:///home/medicendav/.config/sxhkd/sxhkdrc",
@@ -16,8 +22,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/medicendav/.config",
-            "backupPath": "/home/medicendav/.config/Code - OSS/Backups/956b4fc197bab23498c77e52e5f948a6",
+            "folder": "file:///home/medicendav/Documentos/Latex",
+            "backupPath": "/home/medicendav/.config/Code - OSS/Backups/528f04397908d40777dad01d9f4f5e74",
             "uiState": {
                 "mode": 1,
                 "x": 24,
@@ -62,7 +68,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Volver a abrir el editor cerrado"
+                                    "label": "&&Volver a abrir el editor cerrado",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -71,7 +78,29 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/medicendav/.config",
+                                        "fsPath": "/home/medicendav/Documentos/Latex",
+                                        "external": "file:///home/medicendav/Documentos/Latex",
+                                        "path": "/home/medicendav/Documentos/Latex",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documentos/Latex"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/medicendav/.config/conky",
+                                        "path": "/home/medicendav/.config/conky",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/conky"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/medicendav/.config",
                                         "path": "/home/medicendav/.config",
                                         "scheme": "file"
@@ -103,6 +132,50 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/medicendav/.config/polybar/iconos",
+                                        "path": "/home/medicendav/.config/polybar/iconos",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/polybar/iconos"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/medicendav/.config/neofetch/config.conf",
+                                        "path": "/home/medicendav/.config/neofetch/config.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/neofetch/config.conf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/medicendav/Documentos/python/biseccion.py",
+                                        "path": "/home/medicendav/Documentos/python/biseccion.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documentos/python/biseccion.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/medicendav/Documentos/python/plot.py",
+                                        "path": "/home/medicendav/Documentos/python/plot.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documentos/python/plot.py"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -636,8 +709,7 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Mostrar &&Minimapa",
-                        "checked": true
+                        "label": "Mostrar &&Minimapa"
                     },
                     {
                         "id": "breadcrumbs.toggle",
@@ -667,7 +739,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Última ubicación de edición"
+                        "label": "&&Última ubicación de edición",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -736,54 +809,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Agrupar &&3",
-                                    "enabled": false
+                                    "label": "Agrupar &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Grupo &&4",
-                                    "enabled": false
+                                    "label": "Grupo &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Grupo &&5",
-                                    "enabled": false
+                                    "label": "Grupo &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Grupo siguiente",
-                                    "enabled": false
+                                    "label": "&&Grupo siguiente"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Grupo anterior",
-                                    "enabled": false
+                                    "label": "&&Grupo anterior"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Agrupar a la &&izquierda",
-                                    "enabled": false
+                                    "label": "Agrupar a la &&izquierda"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Agrupar a la &&derecha",
-                                    "enabled": false
+                                    "label": "Agrupar a la &&derecha"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Agrupar &&arriba",
-                                    "enabled": false
+                                    "label": "Agrupar &&arriba"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Agrupar &&debajo",
-                                    "enabled": false
+                                    "label": "Agrupar &&debajo"
                                 }
                             ]
                         }
@@ -1525,5 +1589,5 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/medicendav"
+    "pickerWorkingDir": "/home/medicendav/Documentos"
 }

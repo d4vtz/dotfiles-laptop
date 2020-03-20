@@ -4,6 +4,6 @@ MENU="$(rofi -sep "|" -dmenu -i -p '	  Desea Salir?' -location 0 -width 25 -hide
             case "$MENU" in
                 *Bloquear) i3lock-fancy ;;
                 *Salir) pkill -KILL -u medicendav ;;
-                *Reiniciar) systemctl reboot ;;
-                *Apagar) systemctl -i poweroff
+                *Reiniciar) reboot ;;
+                *Apagar) poweroff
             esac
